@@ -1,0 +1,15 @@
+.task_section_icon {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.task_section_heading {
+    display: flex;
+    align-items: center;
+}
+
+.task_section {
+    width: 33.33%;
+    margin: 15px;
+}
+
